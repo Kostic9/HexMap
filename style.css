@@ -1,0 +1,13 @@
+body {
+	background-color: rgb(10, 10, 10);
+}
+#controls {
+	margin: auto;
+	width: 100px;
+	padding: 10px;
+}
+#mapdiv {
+	width: 1200px;
+	margin: auto;
+	border: 7px solid white;
+}
